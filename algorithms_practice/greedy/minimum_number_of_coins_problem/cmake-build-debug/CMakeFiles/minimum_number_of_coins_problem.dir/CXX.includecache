@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ahmed/past_stuff/competitive programming/algorithms_practice/greedy/minimum_number_of_coins_problem/main.cpp
+iostream
+-
+vector
+-
+

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/UVa problems/solutions/195/main.cpp
+iostream
+-
+algorithm
+-
+vector
+-
+cstring
+-
+algorithm
+-
+cctype
+-
+

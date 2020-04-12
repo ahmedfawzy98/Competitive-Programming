@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ahmed/past_stuff/competitive programming/algorithms_practice/data_stuctures/graphs/headers/graph.h
+list
+-
+
+/home/ahmed/past_stuff/competitive programming/algorithms_practice/data_stuctures/graphs/src/main.cpp
+iostream
+-
+../headers/graph.h
+/home/ahmed/past_stuff/competitive programming/algorithms_practice/data_stuctures/graphs/headers/graph.h
+

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/344A.dir/main.cpp.o  -o 344A 

@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/ahmed/past_stuff/competitive programming/algorithms_practice/data_stuctures/try/build",
+  "command": "/bin/g++-9    -g   -o CMakeFiles/try.dir/src/main.cpp.o -c \"/home/ahmed/past_stuff/competitive programming/algorithms_practice/data_stuctures/try/src/main.cpp\"",
+  "file": "/home/ahmed/past_stuff/competitive programming/algorithms_practice/data_stuctures/try/src/main.cpp"
+},
+{
+  "directory": "/home/ahmed/past_stuff/competitive programming/algorithms_practice/data_stuctures/try/build",
+  "command": "/bin/g++-9    -g   -o CMakeFiles/try.dir/src/x.cpp.o -c \"/home/ahmed/past_stuff/competitive programming/algorithms_practice/data_stuctures/try/src/x.cpp\"",
+  "file": "/home/ahmed/past_stuff/competitive programming/algorithms_practice/data_stuctures/try/src/x.cpp"
+}
+]

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ahmed/Winstaff/D/competitive programming/codeforces/112A/main.cpp
+iostream
+-
+string
+-
+string.h
+-
+algorithm
+-
+boost/algorithm/string.hpp
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/activity_selection_problem.dir/main.cpp.o  -o activity_selection_problem 

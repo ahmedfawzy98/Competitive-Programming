@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/count_inversion_problem.dir/main.cpp.o  -o count_inversion_problem 

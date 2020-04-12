@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/770A.dir/main.cpp.o  -o 770A 

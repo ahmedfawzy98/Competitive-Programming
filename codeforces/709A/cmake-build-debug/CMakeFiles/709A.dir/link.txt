@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/709A.dir/main.cpp.o  -o 709A 

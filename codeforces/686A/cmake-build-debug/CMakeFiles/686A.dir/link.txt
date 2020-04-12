@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/686A.dir/main.cpp.o  -o 686A 

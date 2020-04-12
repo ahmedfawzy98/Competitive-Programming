@@ -1,0 +1,3 @@
+/home/ahmed/Winstaff/D/kick start/2017/practice Round/country leader/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ahmed/Winstaff/D/kick start/2017/practice Round/country leader/cmake-build-debug/CMakeFiles/country_leader.dir
+/home/ahmed/Winstaff/D/kick start/2017/practice Round/country leader/cmake-build-debug/CMakeFiles/edit_cache.dir

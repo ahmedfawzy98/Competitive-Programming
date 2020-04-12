@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ahmed/past_stuff/competitive programming/algorithms_practice/data_stuctures/queue/headers/node.h
+
+/home/ahmed/past_stuff/competitive programming/algorithms_practice/data_stuctures/queue/headers/queue.h
+node.h
+/home/ahmed/past_stuff/competitive programming/algorithms_practice/data_stuctures/queue/headers/node.h
+
+/home/ahmed/past_stuff/competitive programming/algorithms_practice/data_stuctures/queue/src/main.cpp
+iostream
+-
+../headers/queue.h
+/home/ahmed/past_stuff/competitive programming/algorithms_practice/data_stuctures/queue/headers/queue.h
+
+/home/ahmed/past_stuff/competitive programming/algorithms_practice/data_stuctures/queue/src/queue.cpp
+iostream
+-
+../headers/queue.h
+/home/ahmed/past_stuff/competitive programming/algorithms_practice/data_stuctures/queue/headers/queue.h
+

@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ahmed/past_stuff/competitive programming/algorithms_practice/dynamic_programming/0-1knapsack_problem/main.cpp
+iostream
+-
+cstring
+-
+

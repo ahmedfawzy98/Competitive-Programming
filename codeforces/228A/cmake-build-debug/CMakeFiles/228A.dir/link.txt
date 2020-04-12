@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/228A.dir/main.cpp.o  -o 228A 

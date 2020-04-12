@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ahmed/past_stuff/competitive programming/algorithms_practice/dynamic_programming/Rod_cutting_problem/main.cpp
+iostream
+-
+climits
+-
+

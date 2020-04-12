@@ -1,0 +1,3 @@
+/home/ahmed/past_stuff/competitive programming/UVa problems/solutions/10036/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ahmed/past_stuff/competitive programming/UVa problems/solutions/10036/cmake-build-debug/CMakeFiles/10036.dir
+/home/ahmed/past_stuff/competitive programming/UVa problems/solutions/10036/cmake-build-debug/CMakeFiles/edit_cache.dir

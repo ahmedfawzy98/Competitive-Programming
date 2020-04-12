@@ -1,0 +1,1 @@
+/bin/g++-9  -g  -rdynamic CMakeFiles/queue.dir/src/main.cpp.o CMakeFiles/queue.dir/src/node.cpp.o CMakeFiles/queue.dir/src/queue.cpp.o  -o queue 

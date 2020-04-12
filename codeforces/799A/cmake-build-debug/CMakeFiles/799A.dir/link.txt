@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/799A.dir/main.cpp.o  -o 799A 

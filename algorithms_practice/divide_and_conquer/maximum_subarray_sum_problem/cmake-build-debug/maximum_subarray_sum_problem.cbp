@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="maximum_subarray_sum_problem"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/ahmed/past_stuff/competitive programming/algorithms_practice/divide_and_conquer/maximum_subarray_sum_problem/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/ahmed/past_stuff/competitive\ programming/algorithms_practice/divide_and_conquer/maximum_subarray_sum_problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/ahmed/past_stuff/competitive\ programming/algorithms_practice/divide_and_conquer/maximum_subarray_sum_problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/ahmed/past_stuff/competitive\ programming/algorithms_practice/divide_and_conquer/maximum_subarray_sum_problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/ahmed/past_stuff/competitive\ programming/algorithms_practice/divide_and_conquer/maximum_subarray_sum_problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/ahmed/past_stuff/competitive programming/algorithms_practice/divide_and_conquer/maximum_subarray_sum_problem/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/ahmed/past_stuff/competitive\ programming/algorithms_practice/divide_and_conquer/maximum_subarray_sum_problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/ahmed/past_stuff/competitive\ programming/algorithms_practice/divide_and_conquer/maximum_subarray_sum_problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/ahmed/past_stuff/competitive\ programming/algorithms_practice/divide_and_conquer/maximum_subarray_sum_problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/ahmed/past_stuff/competitive\ programming/algorithms_practice/divide_and_conquer/maximum_subarray_sum_problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="maximum_subarray_sum_problem">
+				<Option output="/home/ahmed/past_stuff/competitive programming/algorithms_practice/divide_and_conquer/maximum_subarray_sum_problem/cmake-build-debug/maximum_subarray_sum_problem" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ahmed/past_stuff/competitive programming/algorithms_practice/divide_and_conquer/maximum_subarray_sum_problem/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/ahmed/past_stuff/competitive\ programming/algorithms_practice/divide_and_conquer/maximum_subarray_sum_problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 maximum_subarray_sum_problem"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/ahmed/past_stuff/competitive\ programming/algorithms_practice/divide_and_conquer/maximum_subarray_sum_problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/ahmed/past_stuff/competitive\ programming/algorithms_practice/divide_and_conquer/maximum_subarray_sum_problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/ahmed/past_stuff/competitive\ programming/algorithms_practice/divide_and_conquer/maximum_subarray_sum_problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="maximum_subarray_sum_problem/fast">
+				<Option output="/home/ahmed/past_stuff/competitive programming/algorithms_practice/divide_and_conquer/maximum_subarray_sum_problem/cmake-build-debug/maximum_subarray_sum_problem" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ahmed/past_stuff/competitive programming/algorithms_practice/divide_and_conquer/maximum_subarray_sum_problem/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/ahmed/past_stuff/competitive\ programming/algorithms_practice/divide_and_conquer/maximum_subarray_sum_problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 maximum_subarray_sum_problem/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/ahmed/past_stuff/competitive\ programming/algorithms_practice/divide_and_conquer/maximum_subarray_sum_problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/ahmed/past_stuff/competitive\ programming/algorithms_practice/divide_and_conquer/maximum_subarray_sum_problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/ahmed/past_stuff/competitive\ programming/algorithms_practice/divide_and_conquer/maximum_subarray_sum_problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/ahmed/past_stuff/competitive programming/algorithms_practice/divide_and_conquer/maximum_subarray_sum_problem/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/ahmed/past_stuff/competitive\ programming/algorithms_practice/divide_and_conquer/maximum_subarray_sum_problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/ahmed/past_stuff/competitive\ programming/algorithms_practice/divide_and_conquer/maximum_subarray_sum_problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/ahmed/past_stuff/competitive\ programming/algorithms_practice/divide_and_conquer/maximum_subarray_sum_problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/ahmed/past_stuff/competitive\ programming/algorithms_practice/divide_and_conquer/maximum_subarray_sum_problem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/ahmed/past_stuff/competitive programming/algorithms_practice/divide_and_conquer/maximum_subarray_sum_problem/main.cpp">
+			<Option target="maximum_subarray_sum_problem"/>
+		</Unit>
+		<Unit filename="/home/ahmed/past_stuff/competitive programming/algorithms_practice/divide_and_conquer/maximum_subarray_sum_problem/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/231A.dir/main.cpp.o  -o 231A 

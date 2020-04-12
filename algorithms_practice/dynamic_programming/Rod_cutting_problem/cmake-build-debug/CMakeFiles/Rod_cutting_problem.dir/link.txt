@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Rod_cutting_problem.dir/main.cpp.o  -o Rod_cutting_problem 

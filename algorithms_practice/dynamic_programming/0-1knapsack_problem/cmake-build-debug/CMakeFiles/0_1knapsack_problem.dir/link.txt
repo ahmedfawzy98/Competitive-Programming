@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/0_1knapsack_problem.dir/main.cpp.o  -o 0_1knapsack_problem 

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ahmed/past_stuff/competitive programming/algorithms_practice/data_stuctures/trees/headers/node.h
+
+/home/ahmed/past_stuff/competitive programming/algorithms_practice/data_stuctures/trees/headers/tree.h
+node.h
+/home/ahmed/past_stuff/competitive programming/algorithms_practice/data_stuctures/trees/headers/node.h
+
+/home/ahmed/past_stuff/competitive programming/algorithms_practice/data_stuctures/trees/src/tree.cpp
+iostream
+-
+../headers/tree.h
+/home/ahmed/past_stuff/competitive programming/algorithms_practice/data_stuctures/trees/headers/tree.h
+

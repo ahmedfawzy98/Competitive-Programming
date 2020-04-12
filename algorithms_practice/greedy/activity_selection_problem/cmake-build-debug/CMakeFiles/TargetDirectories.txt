@@ -1,0 +1,3 @@
+/home/ahmed/past_stuff/competitive programming/algorithms_practice/greedy/activity_selection_problem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ahmed/past_stuff/competitive programming/algorithms_practice/greedy/activity_selection_problem/cmake-build-debug/CMakeFiles/activity_selection_problem.dir
+/home/ahmed/past_stuff/competitive programming/algorithms_practice/greedy/activity_selection_problem/cmake-build-debug/CMakeFiles/edit_cache.dir

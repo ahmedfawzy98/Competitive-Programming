@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/ahmed/past_stuff/competitive programming/algorithms_practice/data_stuctures/graphs/build",
+  "command": "/bin/g++-9    -g   -o CMakeFiles/graphs.dir/src/graph.cpp.o -c \"/home/ahmed/past_stuff/competitive programming/algorithms_practice/data_stuctures/graphs/src/graph.cpp\"",
+  "file": "/home/ahmed/past_stuff/competitive programming/algorithms_practice/data_stuctures/graphs/src/graph.cpp"
+},
+{
+  "directory": "/home/ahmed/past_stuff/competitive programming/algorithms_practice/data_stuctures/graphs/build",
+  "command": "/bin/g++-9    -g   -o CMakeFiles/graphs.dir/src/main.cpp.o -c \"/home/ahmed/past_stuff/competitive programming/algorithms_practice/data_stuctures/graphs/src/main.cpp\"",
+  "file": "/home/ahmed/past_stuff/competitive programming/algorithms_practice/data_stuctures/graphs/src/main.cpp"
+}
+]

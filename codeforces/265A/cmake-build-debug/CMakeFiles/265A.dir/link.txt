@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/265A.dir/main.cpp.o  -o 265A 

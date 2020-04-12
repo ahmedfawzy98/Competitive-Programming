@@ -1,0 +1,3 @@
+/home/ahmed/Winstaff/D/competitive programming/codeforces/59A/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ahmed/Winstaff/D/competitive programming/codeforces/59A/cmake-build-debug/CMakeFiles/59A.dir
+/home/ahmed/Winstaff/D/competitive programming/codeforces/59A/cmake-build-debug/CMakeFiles/edit_cache.dir

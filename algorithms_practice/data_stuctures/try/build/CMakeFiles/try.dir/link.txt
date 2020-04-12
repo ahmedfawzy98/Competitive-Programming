@@ -1,0 +1,1 @@
+/bin/g++-9  -g  -rdynamic CMakeFiles/try.dir/src/main.cpp.o CMakeFiles/try.dir/src/x.cpp.o  -o try 

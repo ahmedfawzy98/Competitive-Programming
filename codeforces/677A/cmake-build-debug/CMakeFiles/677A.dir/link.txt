@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/677A.dir/main.cpp.o  -o 677A 

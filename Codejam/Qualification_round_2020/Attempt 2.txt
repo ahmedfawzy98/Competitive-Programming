@@ -1,0 +1,50 @@
+#include <iostream>
+#include <utility>
+#include <vector>
+#include <algorithm>
+
+using namespace std;
+
+void get_result(vector<pair<int,int>> &vec, pair<int,int> &C, pair<int,int> &J, string &result){
+        for(auto p : vec){
+            if(p.first >= C.second or (p.first == 0 and C.second == 1440)){C = p; result += 'C';}
+            else if(p.first >= J.second or (p.first == 0 and J.second == 1440)){J = p; result += 'J';}
+            else{result = ""; break;}
+        }
+}
+
+int main(){
+    int T, N, counter = 1;
+    pair<int,int> C, J, temp;
+    vector<pair<int,int>> vec;
+    string result;
+    //bool fail;
+    cin >> T;
+    while(T--){
+        //fail = false;
+        result.clear();
+        vec.clear();
+        C = make_pair(0,0); J = make_pair(0,0);
+        cin >> N;
+        for(int i = 0; i < N; i++){
+            cin >> temp.first >> temp.second;
+            vec.push_back(temp);
+        }
+        get_result(vec, C, J, result);
+        if(result.empty()){
+            sort(vec.begin(), vec.end());
+            C = make_pair(0,0); J = make_pair(0,0);
+            get_result(vec, C, J, result);
+        }else{
+            cout << "Case #" << counter++ << ": " << result << endl;
+            continue;
+        }
+        //for(auto p : vec){
+            //if(p.first >= C.second){C = p; result += 'C';}
+            //else if(p.first >= J.second){J = p; result += 'J';}
+            //else{fail = true; break;}
+        //}
+        if(result.empty()){cout << "Case #" << counter++ << ": IMPOSSIBLE" << endl;}
+        else{cout << "Case #" << counter++ << ": " << result << endl;}
+    }
+}

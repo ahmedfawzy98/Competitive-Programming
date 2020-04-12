@@ -1,0 +1,1 @@
+/bin/g++-9  -g  -rdynamic CMakeFiles/graphs.dir/src/graph.cpp.o CMakeFiles/graphs.dir/src/main.cpp.o  -o graphs 

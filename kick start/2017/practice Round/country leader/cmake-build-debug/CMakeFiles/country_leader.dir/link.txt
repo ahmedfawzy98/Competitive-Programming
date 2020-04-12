@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/country_leader.dir/main.cpp.o  -o country_leader 

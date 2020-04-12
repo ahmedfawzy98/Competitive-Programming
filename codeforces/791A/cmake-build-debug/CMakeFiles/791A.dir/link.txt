@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/791A.dir/main.cpp.o  -o 791A 

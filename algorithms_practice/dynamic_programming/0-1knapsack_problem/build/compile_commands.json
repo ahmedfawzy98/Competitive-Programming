@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/ahmed/past_stuff/competitive programming/algorithms_practice/dynamic_programming/0-1knapsack_problem/build",
+  "command": "/bin/g++-9    -O3 -DNDEBUG   -std=gnu++14 -o CMakeFiles/0_1knapsack_problem.dir/main.cpp.o -c \"/home/ahmed/past_stuff/competitive programming/algorithms_practice/dynamic_programming/0-1knapsack_problem/main.cpp\"",
+  "file": "/home/ahmed/past_stuff/competitive programming/algorithms_practice/dynamic_programming/0-1knapsack_problem/main.cpp"
+}
+]

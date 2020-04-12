@@ -1,0 +1,1 @@
+/bin/g++-9  -g  -rdynamic CMakeFiles/linked_list.dir/src/linked_list.cpp.o CMakeFiles/linked_list.dir/src/main.cpp.o CMakeFiles/linked_list.dir/src/node.cpp.o  -o linked_list 

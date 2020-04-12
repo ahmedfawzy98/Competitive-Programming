@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Linux-g++-9"
+	BuildStamp="20191230-1834-Experimental"
+	Name="abo-fawzy"
+	Generator="ctest-3.16.2"
+	CompilerName="/bin/g++-9"
+	CompilerVersion="9.2.1"
+	OSName="Linux"
+	Hostname="abo-fawzy"
+	OSRelease="5.3.0-24-generic"
+	OSVersion="#26-Ubuntu SMP Thu Nov 14 01:33:18 UTC 2019"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="78"
+	ProcessorCacheSize="4096"
+	NumberOfLogicalCPU="4"
+	NumberOfPhysicalCPU="2"
+	TotalVirtualMemory="15258"
+	TotalPhysicalMemory="7855"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2700"
+	>
+	<Testing>
+		<StartDateTime>Dec 30 20:34 EET</StartDateTime>
+		<StartTestTime>1577730861</StartTestTime>
+		<TestList/>
+		<EndDateTime>Dec 30 20:34 EET</EndDateTime>
+		<EndTestTime>1577730861</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

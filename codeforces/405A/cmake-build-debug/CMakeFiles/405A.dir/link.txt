@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/405A.dir/main.cpp.o  -o 405A 

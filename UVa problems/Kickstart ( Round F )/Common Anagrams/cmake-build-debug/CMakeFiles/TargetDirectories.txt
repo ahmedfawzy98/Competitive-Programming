@@ -1,0 +1,3 @@
+/home/ahmed/Winstaff/D/UVa problems/Kickstart ( Round F )/Common Anagrams/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ahmed/Winstaff/D/UVa problems/Kickstart ( Round F )/Common Anagrams/cmake-build-debug/CMakeFiles/A__Common_Anagrams.dir
+/home/ahmed/Winstaff/D/UVa problems/Kickstart ( Round F )/Common Anagrams/cmake-build-debug/CMakeFiles/edit_cache.dir

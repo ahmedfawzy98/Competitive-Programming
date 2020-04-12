@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/A__Common_Anagrams.dir/main.cpp.o  -o A__Common_Anagrams 

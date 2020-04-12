@@ -1,0 +1,3 @@
+/home/ahmed/Winstaff/D/UVa problems/146/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ahmed/Winstaff/D/UVa problems/146/cmake-build-debug/CMakeFiles/146.dir
+/home/ahmed/Winstaff/D/UVa problems/146/cmake-build-debug/CMakeFiles/edit_cache.dir
